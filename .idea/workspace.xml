@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7b8e6323-eaa1-4485-8e31-95ea29629737" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +18,9 @@
     </option>
   </component>
   <component name="GOROOT" path="$PROJECT_DIR$/../../go1.15.1" />
+  <component name="Git.Settings">
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
@@ -28,10 +34,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="731" y="294" width="447" height="520" key="FileChooserDialogImpl" timestamp="1601457939533">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="731" y="294" width="447" height="520" key="FileChooserDialogImpl/0.22.1920.1058@0.22.1920.1058" timestamp="1601457939533" />
+    <state x="449" y="186" width="1022" height="737" key="SettingsEditor" timestamp="1601457970982">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="449" y="186" width="1022" height="737" key="SettingsEditor/0.22.1920.1058@0.22.1920.1058" timestamp="1601457970982" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1601457953624">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.22.1920.1058@0.22.1920.1058" timestamp="1601457953624" />
   </component>
 </project>
